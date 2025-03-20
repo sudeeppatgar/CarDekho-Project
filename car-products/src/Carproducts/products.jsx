@@ -142,21 +142,21 @@ const carData = {
                 price:"₹ 1.22 -1.32Cr",
             },
             { img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLA-2024/9731/1679039244149/front-left-side-47.jpg?tr=w-300" ,
-                name: "Mercedes-Benz GLA",
-                price:"₹ 50.80 -55.80 Lakh",
-                }, 
-                { img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Kylaq/11528/1733225175669/front-left-side-47.jpg?tr=w-300" ,
-                    name: "Skoda Kylaq",
-                    price:"₹ 7.89 - 14.40 Lakh",
-                    },
-                    { img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Scorpio-N/10817/1690351800434/front-left-side-47.jpg?tr=w-300" ,
-                        name: "Mahindra Scorpio N",
-                        price:"₹ 13.99 - 24.69 Lakh",
-                    },
-                    { img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Bolero/10754/1697696929365/front-left-side-47.jpg?tr=w-300" ,
-                        name: "Mahindra Bolero",
-                        price:"₹ 9.79 - -10.91 Lakh",
-                    },
+            name: "Mercedes-Benz GLA",
+            price:"₹ 50.80 -55.80 Lakh",
+            }, 
+            { img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Kylaq/11528/1733225175669/front-left-side-47.jpg?tr=w-300" ,
+            name: "Skoda Kylaq",
+            price:"₹ 7.89 - 14.40 Lakh",
+            },
+            { img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Scorpio-N/10817/1690351800434/front-left-side-47.jpg?tr=w-300" ,
+                name: "Mahindra Scorpio N",
+                price:"₹ 13.99 - 24.69 Lakh",
+            },
+            { img: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Bolero/10754/1697696929365/front-left-side-47.jpg?tr=w-300" ,
+                name: "Mahindra Bolero",
+                price:"₹ 9.79 - -10.91 Lakh",
+            },
     ]
   };
 const products=()=> {
@@ -175,13 +175,13 @@ const products=()=> {
     //     );
     // };
 
-    const settings = {
-        className: "center",
-        infinite: true,
-        centerPadding: "60px",
-        slidesToShow: 1,
-        swipeToSlide: false,
-      };
+    // const settings = {
+    //     className: "center",
+    //     infinite: true,
+    //     centerPadding: "60px",
+    //     slidesToShow: 1,
+    //     swipeToSlide: false,
+    //   };
   return (
     <>
     <div class="content">
